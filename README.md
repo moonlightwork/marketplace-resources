@@ -36,7 +36,7 @@ By [Philip](https://www.philipithomas.com) from [Moonlight](https://www.moonligh
 - [The spawn of Craigslist](http://thegongshow.tumblr.com/post/345941486/the-spawn-of-craigslist-like-most-vcs-that-focus) by Andrew Parker
 - [What type of marketplace are you?](http://acrowdedspace.com/post/95742275407/what-type-of-marketplace-are-you) by Josh Breinlinger
 - [Vertical or horizontal](http://acrowdedspace.com/post/116567620957/vertical-or-horizontal) by Josh Breinlinger
-- [Disintermediation in marketplaces and how to fight it](http://acrowdedspace.com/post/28387454995/disintermediation-its-a-bitch) by Josh Breinlingerc
+- [Disintermediation in marketplaces and how to fight it](http://acrowdedspace.com/post/28387454995/disintermediation-its-a-bitch) by Josh Breinlinger
 - [How modern marketplaces build trust to achieve liquidity](http://firstround.com/review/How-Modern-Marketplaces-Like-Uber-Airbnb-Build-Trust-to-Hit-Liquidity/) by Anand Iyer for First Round Capital
 
 ### Metrics
