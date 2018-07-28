@@ -1,11 +1,19 @@
-# Marketplace Reading List
+# Marketplace Resources 
+
+[![Moonlight contractors](https://www.moonlightwork.com/shields/moonlight.svg)](https://www.moonlightwork.com/?referredByUserID=1&referralProgram=maintainer&referrerName=the%20Moonlight%20team)
+
+Articles, videos, and links to help entrepreneurs learn about starting an online marketplace. 
+
+Contributions are welcome!
+
+By [Philip](https://www.philipithomas.com) from [Moonlight](https://www.moonlightwork.com)
 
 ## Articles
 
 ### Overview
 
-- [Online Marketplaces](https://a16z.com/2015/01/22/online-marketplaces/) by	Jeff Jordan for Andreesen Horowitz
-- [People Marketplaces](https://a16z.com/2013/07/22/people-marketplaces-3/) by Jeff Jordan for Andreessen Horowitz
+- [Online marketplaces](https://a16z.com/2015/01/22/online-marketplaces/) by	Jeff Jordan for Andreessen Horowitz
+- [People marketplaces](https://a16z.com/2013/07/22/people-marketplaces-3/) by Jeff Jordan for Andreessen Horowitz
 - [Marketplaces are eating firms](https://techcrunch.com/2014/11/22/marketplaces-are-eating-firms/) by Josh Breinlinger for Techcrunch
 - [Marketplace liquidity](https://techcrunch.com/2017/07/11/marketplace-liquidity/) by Borja Moreno for Techcrunch
 
@@ -29,12 +37,12 @@
 - [What type of marketplace are you?](http://acrowdedspace.com/post/95742275407/what-type-of-marketplace-are-you) by Josh Breinlinger
 - [Vertical or horizontal](http://acrowdedspace.com/post/116567620957/vertical-or-horizontal) by Josh Breinlinger
 - [Disintermediation in marketplaces and how to fight it](http://acrowdedspace.com/post/28387454995/disintermediation-its-a-bitch) by Josh Breinlingerc
-- [How Modern Marketplaces Like Uber and Airbnb Build Trust to Achieve Liquidity](http://firstround.com/review/How-Modern-Marketplaces-Like-Uber-Airbnb-Build-Trust-to-Hit-Liquidity/) by Anand Iyer for First Round Capital
+- [How modern marketplaces build trust to achieve liquidity](http://firstround.com/review/How-Modern-Marketplaces-Like-Uber-Airbnb-Build-Trust-to-Hit-Liquidity/) by Anand Iyer for First Round Capital
 
 ### Metrics
 
 - [All GMV is not created equal](http://acrowdedspace.com/post/142650074387/all-gmv-is-not-created-equal) by Josh Breinlinger
-- [10 Marketplace KPIs That Matter](https://medium.com/@algovc/10-marketplace-kpis-that-matter-22e0fd2d2779) by Anrei Brasoveanu
+- [10 marketplace KPIs that matter](https://medium.com/@algovc/10-marketplace-kpis-that-matter-22e0fd2d2779) by Anrei Brasoveanu
 
 ### Lists
 
@@ -47,10 +55,10 @@
 
 ## Books
 
-- [Platform Scale](https://www.amazon.com/Platform-Scale-emerging-business-investment/dp/9810967586/ref=pd_bxgy_14_img_2) by Sangeet Paul Choudary
-- [Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You Paperback](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=pd_bxgy_14_img_3) by Sangeet Paul Choudary
-- [The Middleman Economy: How Brokers, Agents, Dealers, and Everyday Matchmakers Create(Value and Profit](https://www.amazon.com/Middleman-Economy-Brokers-Everyday-Matchmakers/dp/1137530197/ref=sr_1_1) by Marina Krakovsky
-- [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/ref=pd_bxgy_14_2) by David S. Evans
+- [Platform scale](https://www.amazon.com/Platform-Scale-emerging-business-investment/dp/9810967586/ref=pd_bxgy_14_img_2) by Sangeet Paul Choudary
+- [Platform revolution: how networked markets are transforming the economy and how to make them work for you](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=pd_bxgy_14_img_3) by Sangeet Paul Choudary
+- [The middleman economy: how brokers, agents, dealers, and everyday matchmakers create value and profit](https://www.amazon.com/Middleman-Economy-Brokers-Everyday-Matchmakers/dp/1137530197/ref=sr_1_1) by Marina Krakovsky
+- [Matchmakers: the new economics of multisided platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/ref=pd_bxgy_14_2) by David S. Evans
 
 ## Common payment tools
 
@@ -62,4 +70,4 @@
 
 ## Example companies
 
-[Uber](https://uber.com), [Lyft](https://lyft.com), [Airbnb](https://www.airbnb.com), [Amazon](https://amazon.com), [Groupon](https://groupon.com), [Craigslist](https://craigslist.com), [eBay](https://ebay.com), [letgo](http://letgo.com), [Poshmark](https://poshmark.com/), [OpenTable](https://www.opentable.com/start/home), [Mindbody](https://www.mindbodyonline.com/), [Taobao](https://world.taobao.com/) (Alibaba), [Didi Chuxing](https://www.didiglobal.com/#/news/newsCenter), [Upwork](https://www.upwork.com/), [Expedia](https://www.expedia.com/), [Ticketmaster](https://ticketmaster.com), [Steam](https://store.steampowered.com/), [Apple](https://apple.com) (iTunes + App Store), [Priceline](https://www.priceline.com/), [Shutterstock](https://www.shutterstock.com/), [Facebook Applications](https://developers.facebook.com/), [Google Play](https://play.google.com/store?hl=en), [Fiverr](https://www.fiverr.com/), [Instacart](https://www.instacart.com/), [Wag](https://wagwalking.com/), [YourMechanic](https://www.yourmechanic.com/), [MasterClass](https://www.masterclass.com/), [GLG](https://glg.it/)
+[Uber](https://uber.com), [Lyft](https://lyft.com), [Airbnb](https://www.airbnb.com), [Amazon](https://amazon.com), [Groupon](https://groupon.com), [Craigslist](https://craigslist.com), [eBay](https://ebay.com), [letgo](http://letgo.com), [Poshmark](https://poshmark.com/), [OpenTable](https://www.opentable.com/start/home), [Mindbody](https://www.mindbodyonline.com/), [Taobao](https://world.taobao.com/) (Alibaba), [Didi Chuxing](https://www.didiglobal.com/#/news/newsCenter), [Upwork](https://www.upwork.com/), [Expedia](https://www.expedia.com/), [Ticketmaster](https://ticketmaster.com), [Steam](https://store.steampowered.com/), [Apple](https://apple.com) (iTunes + App Store), [Priceline](https://www.priceline.com/), [Shutterstock](https://www.shutterstock.com/), [Facebook Applications](https://developers.facebook.com/), [Google Play](https://play.google.com/store?hl=en), [Fiverr](https://www.fiverr.com/), [Instacart](https://www.instacart.com/), [Wag](https://wagwalking.com/), [YourMechanic](https://www.yourmechanic.com/), [MasterClass](https://www.masterclass.com/), [GLG](https://glg.it/), [Moonlight](https://www.moonlightwork.com)
