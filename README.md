@@ -1,4 +1,4 @@
-# Marketplace Resources 
+# Marketplace resources 
 
 [![Moonlight contractors](https://www.moonlightwork.com/shields/moonlight.svg)](https://www.moonlightwork.com/?referredByUserID=1&referralProgram=maintainer&referrerName=the%20Moonlight%20team)
 
@@ -15,7 +15,7 @@ By [Philip](https://www.philipithomas.com) from [Moonlight](https://www.moonligh
 - [Online marketplaces](https://a16z.com/2015/01/22/online-marketplaces/) by	Jeff Jordan for Andreessen Horowitz
 - [People marketplaces](https://a16z.com/2013/07/22/people-marketplaces-3/) by Jeff Jordan for Andreessen Horowitz
 - [Marketplaces are eating firms](https://techcrunch.com/2014/11/22/marketplaces-are-eating-firms/) by Josh Breinlinger for Techcrunch
-- [Marketplace liquidity](https://techcrunch.com/2017/07/11/marketplace-liquidity/) by Borja Moreno for Techcrunch
+- [Marketplace liquidity](https://techcrunch.com/2017/07/11/marketplace-liquidity/) by Borja Moreno de los Rios for Techcrunch
 
 
 ### Chicken and egg problem
